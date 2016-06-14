@@ -49,3 +49,8 @@ gem 'spree', '~> 3.1.0.rc1'
 gem 'spree_auth_devise', '~> 3.1.0.rc1'
 gem 'spree_gateway', '~> 3.1.0.rc1'
 gem 'spree_i18n', git: 'git://github.com/spree/spree_i18n.git', branch: '3-1-stable'
+
+gem 'spree_simple_sales', :path => 'spree_simple_sales/'
+
+gem 'bootstrap-sass'
+gem 'autoprefixer-rails'
